@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Pagina-1" id="-G2G5HfAtKl-5y8u46CK">
+    <mxGraphModel dx="831" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JHK0dsfJwkiFP90CCO0H-5" edge="1" parent="1" source="JHK0dsfJwkiFP90CCO0H-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;defaultLabelBackgroundColor=page;labelPadding=0 4;entryX=0.5;entryY=0;entryDx=20;entryDy=14;entryPerimeter=0;dashed=1;dashPattern=8 8;endArrow=open;endFill=0;" target="JHK0dsfJwkiFP90CCO0H-2">
+          <mxGeometry relative="1" x="0.0309" as="geometry" />
+        </mxCell>
+        <mxCell id="JHK0dsfJwkiFP90CCO0H-1" parent="1" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" value="Interfaccia Utente" vertex="1">
+          <mxGeometry height="50" width="130" x="380" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="JHK0dsfJwkiFP90CCO0H-2" parent="1" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" value="Proiezioni Film" vertex="1">
+          <mxGeometry height="50" width="130" x="230" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="JHK0dsfJwkiFP90CCO0H-3" parent="1" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" value="Prenotazione Posto" vertex="1">
+          <mxGeometry height="50" width="130" x="275" y="446" as="geometry" />
+        </mxCell>
+        <mxCell id="JHK0dsfJwkiFP90CCO0H-4" parent="1" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" value="Gestione Utente" vertex="1">
+          <mxGeometry height="50" width="130" x="540" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="JHK0dsfJwkiFP90CCO0H-6" edge="1" parent="1" source="JHK0dsfJwkiFP90CCO0H-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=20;entryDy=14;entryPerimeter=0;defaultLabelBackgroundColor=page;labelPadding=0 4;endArrow=open;endFill=0;dashed=1;dashPattern=8 8;" target="JHK0dsfJwkiFP90CCO0H-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JHK0dsfJwkiFP90CCO0H-7" edge="1" parent="1" source="JHK0dsfJwkiFP90CCO0H-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=20;entryDy=14;entryPerimeter=0;defaultLabelBackgroundColor=page;labelPadding=0 4;endArrow=open;endFill=0;dashed=1;dashPattern=8 8;" target="JHK0dsfJwkiFP90CCO0H-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JHK0dsfJwkiFP90CCO0H-9" parent="1" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" value="Pagina Utente" vertex="1">
+          <mxGeometry height="50" width="130" x="485" y="446" as="geometry" />
+        </mxCell>
+        <mxCell id="JHK0dsfJwkiFP90CCO0H-10" edge="1" parent="1" source="JHK0dsfJwkiFP90CCO0H-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=20;entryDy=14;entryPerimeter=0;defaultLabelBackgroundColor=page;labelPadding=0 4;dashed=1;dashPattern=8 8;endArrow=open;endFill=0;" target="JHK0dsfJwkiFP90CCO0H-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JHK0dsfJwkiFP90CCO0H-11" edge="1" parent="1" source="JHK0dsfJwkiFP90CCO0H-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=7;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=7;entryPerimeter=0;defaultLabelBackgroundColor=page;labelPadding=0 4;dashed=1;dashPattern=8 8;endArrow=open;endFill=0;" target="JHK0dsfJwkiFP90CCO0H-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JHK0dsfJwkiFP90CCO0H-12" edge="1" parent="1" source="JHK0dsfJwkiFP90CCO0H-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=20;entryDy=14;entryPerimeter=0;defaultLabelBackgroundColor=page;labelPadding=0 4;dashed=1;dashPattern=8 8;endArrow=open;endFill=0;" target="JHK0dsfJwkiFP90CCO0H-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
